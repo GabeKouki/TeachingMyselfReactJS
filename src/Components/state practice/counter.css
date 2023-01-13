@@ -3,3 +3,16 @@
     margin-top: 40px;
     width: 413px;
 }   
+
+.number {
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttoncontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
